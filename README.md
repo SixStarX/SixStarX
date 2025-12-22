@@ -17,4 +17,4 @@
 
 ## 📫 Contato
 - LinkedIn: 
-- Email:
+- Email: yulopraxedes14@gmail.com
