@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**SixStarX/SixStarX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Cibersegurança  
+💻 Python | Linux | Kali Linux  
+🔐 Segurança ofensiva (ética) e automação
 
-Here are some ideas to get you started:
+## Projetos em destaque
+- 🔑 Keylogger (Python)
+- 🛡️ Laboratórios de pentest (ambiente controlado)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Python
+- C/C++
+- Linux
+- Git & GitHub
+- Kali Linux
+
+## 📫 Contato
+- LinkedIn: 
+- Email:
