@@ -16,5 +16,5 @@
 - Kali Linux
 
 ## 📫 Contato
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/yulo-praxedes-7590173a2/
 - Email: yulopraxedes14@gmail.com
